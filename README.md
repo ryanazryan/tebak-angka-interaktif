@@ -1,5 +1,7 @@
 # 🎲 Permainan Tebak Angka (Number Guessing Game)
 
+<img src="https://github.com/ryanazryan/tebak-angka-interaktif/blob/main/ui.png"/>
+
 Selamat datang di **Permainan Tebak Angka**!  
 Game sederhana dan seru di mana kamu harus menebak angka rahasia yang dipilih secara acak oleh komputer, mulai dari 1 sampai 100. Cocok dimainkan untuk mengisi waktu luang, melatih logika, atau sekadar bersenang-senang bersama teman dan keluarga.
 
